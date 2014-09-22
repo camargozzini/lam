@@ -1,0 +1,9 @@
+# Site settings
+title: LAM
+# email: your-email@domain.com
+description: "Proyectos y Construcciones"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
